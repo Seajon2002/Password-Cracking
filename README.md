@@ -180,8 +180,6 @@ This repository is intended for educational and cybersecurity learning purposes 
 
 All activities were performed in authorized lab environments. Password-cracking techniques should only be used on systems and files for which explicit permission has been granted.
 
-Sensitive passwords and challenge flags are excluded from public documentation.
-
 ---
 
 ### 🚀 Week 3 – Successfully Completed
