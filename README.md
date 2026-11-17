@@ -132,7 +132,7 @@ Successfully completed the assigned exercises and captured the lab flags.
 
 ![Dictionary Attack](W3-PM2-NetworkWalks/Screenshots/02-dictionary-attack-result.png)
 
-**03. JTR Persistence Lab Completion Evidence**
+**03. Lab Completion Evidence**
 
 ![Persistence Evidence](W3-PM2-NetworkWalks/Screenshots/03-jtr-persistence-evidence.png)
 
